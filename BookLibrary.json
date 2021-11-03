@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "Harry Potter",
+    "Author": "J. K. Rowling",
+    "Category": "Fantasy",
+    "Language": "LT",
+    "PubDate": "1869-01-01T00:00:00",
+    "ISBN": "958-5-26-178414-5",
+    "Owner": {
+      "Name": "Visma",
+      "Surname": "Visma",
+      "TimeTaken": "2021-11-03T16:49:00.5609231+02:00",
+      "BookHoldingDuration": 0
+    }
+  },
+  {
+    "Name": "Harrty Potter",
+    "Author": "J. Rowling",
+    "Category": "notFantasy",
+    "Language": "EN",
+    "PubDate": "1869-01-01T00:00:00",
+    "ISBN": "958-5-26-178114-5",
+    "Owner": {
+      "Name": "Visma",
+      "Surname": "Visma",
+      "TimeTaken": "2021-11-03T15:42:45.8995972+02:00",
+      "BookHoldingDuration": 0
+    }
+  },
+  {
+    "Name": "Harry Potter",
+    "Author": "J. K. Rowling",
+    "Category": "Fantasy",
+    "Language": "EN",
+    "PubDate": "1869-01-01T00:00:00",
+    "ISBN": "958-5-26-118414-5",
+    "Owner": {
+      "Name": "Petras",
+      "Surname": "Par",
+      "TimeTaken": "2021-10-03T15:42:45.8995982+02:00",
+      "BookHoldingDuration": 15
+    }
+  },
+  {
+    "Name": "Harry Potter",
+    "Author": "J. K. Rowling",
+    "Category": "Fantasy",
+    "Language": "EN",
+    "PubDate": "1869-01-01T00:00:00",
+    "ISBN": "958-5-26-178211-5",
+    "Owner": {
+      "Name": "Visma",
+      "Surname": "Visma",
+      "TimeTaken": "2021-11-03T15:38:46.5213673+02:00",
+      "BookHoldingDuration": 0
+    }
+  }
+]
